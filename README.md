@@ -20,9 +20,7 @@ Plura is an innovative link management software designed to help you shorten, tr
 
 Check out the live demo of Plura here: [Live Preview](http://Plura-demo.vercel.app)
 
-## 🎥 Watch Demo on YouTube
 
-Check out the tutorial to see how this link management system was built: [Watch the Tutorial](https://youtu.be/3_sZPAfVR_U) 💻 
 
 ## 💻 Tech Stack
 
